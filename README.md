@@ -11,3 +11,12 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  - ♾️ Check out for my projects here - https://akbarbadmus.vercel.app
+
+  ### :hammer: **Languages and Tools**:
+  <div id="languages" align="center">
+    <img src="https://icons8.com/icon/yUdJlcKanVbh/next.js" width="80" height="80"/>&nbsp;&nbsp;
+
+  </div>
+
+  - :infinity: I love Video games :video_game: and Playing chess :chess_pawn:  in my spare time.
