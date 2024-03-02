@@ -15,7 +15,7 @@
 
   ### :hammer: **Languages and Tools**:
   <div id="languages" align="center">
-   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,&perline=3)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux&perline=3)](https://skillicons.dev)
 
   </div>
 
