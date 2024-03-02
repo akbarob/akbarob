@@ -17,7 +17,7 @@
   <div id="languages" align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nextjs,react,tailwindcss,firebase,javascript,redux" />
+    <img src="https://skillicons.dev/icons?i=git,github,nextjs,react,tailwindcss,firebase,javascript,redux,figma" />
   </a>
 </p>
 
