@@ -15,7 +15,7 @@
 
   ### :hammer: **Languages and Tools**:
   <div id="languages" align="center">
-    <img src="https://icons8.com/icon/yUdJlcKanVbh/next.js" width="80" height="80"/>&nbsp;&nbsp;
+   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,&perline=3)](https://skillicons.dev)
 
   </div>
 
