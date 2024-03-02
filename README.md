@@ -15,8 +15,9 @@
 
   ### :hammer: **Languages and Tools**:
   <div id="languages" align="center">
-   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
   </div>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
   - :infinity: I love Video games :video_game: and Playing chess :chess_pawn:  in my spare time.
